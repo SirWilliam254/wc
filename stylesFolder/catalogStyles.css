@@ -10,16 +10,17 @@
   }
   
   .img-gallery {
-    width: 80%;
+    width: 90%;
     margin: 100px auto 50px;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    grid-gap: 30px;
+    grid-gap: 20px;
   }
   
   .img-gallery img {
     width: 100%;
     cursor: pointer;
+    border-radius: 10px;
     transition: 1s ease;
   }
   
