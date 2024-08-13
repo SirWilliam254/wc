@@ -8,7 +8,10 @@
   body {
     background: hsl(35, 100%, 95%);
   }
-  
+
+.bg-custom {
+  background-color: #161622;
+}
   .img-gallery {
     width: 90%;
     margin: 100px auto 50px;
