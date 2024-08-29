@@ -9,6 +9,22 @@
     background: hsl(35, 100%, 95%);
   }
 
+  .navbar-toggler {
+    border: none; /* Remove default border */
+    outline: none; /* Remove outline when button is focused */
+    background: none; /* Remove default background if any */
+    padding: 0; /* Remove any default padding */
+}
+.navbar-toggler img {
+  border: none; /* Remove any border around the image */
+  display: block; /* Remove extra space below the image */
+  padding: 0; /* Remove any padding */
+  margin: 0; /* Remove any margin */
+}
+
+
+
+
 .bg-custom {
   background-color: #161622;
 }
