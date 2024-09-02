@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 https://ad7b-102-213-49-42.ngrok-free.app
-=======
-https://ed95-102-213-49-42.ngrok-free.app
->>>>>>> 8ce61aa608c30517d32b14282e4c6e6e92df0acf
