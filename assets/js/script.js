@@ -165,8 +165,11 @@ window.addEventListener("scroll", function () {
 
   backTopBtn.textContent = `${totalScrollPercent.toFixed(0)}%`;
 
-  // visible back top btn when scrolled 5% of the page
-  if (totalScrollPercent > 5) {
+// Ensure the button is always visible
+// backTopBtn.classList.add("show");
+
+  // from 2
+  if (totalScrollPercent > 0) {
     backTopBtn.classList.add("show");
   } else {
     backTopBtn.classList.remove("show");
