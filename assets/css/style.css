@@ -924,6 +924,7 @@ body.active { overflow: hidden; }
   font-weight: var(--fw-300);
   letter-spacing: 0.5px;
   color: dodgerblue;
+  text-decoration: underline;
   text-align: center;
 }
 
