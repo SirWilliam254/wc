@@ -923,8 +923,8 @@ body.active { overflow: hidden; }
 .copyright {
   font-weight: var(--fw-300);
   letter-spacing: 0.5px;
-  /* color: dodgerblue;
-  text-decoration: underline; */
+  color: dodgerblue;
+  text-decoration: underline;
   text-align: center;
 }
 
