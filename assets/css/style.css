@@ -923,7 +923,7 @@ body.active { overflow: hidden; }
 .copyright {
   font-weight: var(--fw-300);
   letter-spacing: 0.5px;
-  color: crimson;
+  color: red;
   /* text-decoration: underline; */
   text-align: center;
 }
